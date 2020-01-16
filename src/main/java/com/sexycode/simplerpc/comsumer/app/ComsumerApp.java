@@ -18,5 +18,6 @@ public class ComsumerApp {
         Calculator calculator = new CalculatorRemoteImpl();
         int result = calculator.add(1, 2);
         log.info("result is {}", result);
+        syso;
     }
 }
